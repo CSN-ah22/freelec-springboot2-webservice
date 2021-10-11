@@ -7,11 +7,11 @@
 + --gradle-version 4.10.2
 + enter를 눌러 다운그레이드 합니다
 
-##### TEST 클래스 자동 생성 단축키
+#### TEST 클래스 자동 생성 단축키
 + 테스트 대상인 클래스명에 커서를 갖다 둔다
 + Ctrl+Shift+T
 
-##### IntelliJ 토큰을 사용해 깃에 올리기
+#### IntelliJ 토큰을 사용해 깃에 올리기
 
 + 원래 비밀번호 인증을 통해 깃에 업로드 했지만 이제 지원이 제거되었다고한다
 + 대신 개인 액세스 토큰을 사용하라 나온다
@@ -27,7 +27,7 @@
 9. Generate token - Copy - Click!
 10. Back to IntelliJ - put in the password space
 
-##### Spring에서 view 표현의 흐름은 어떻게 될까?
+#### Spring에서 view 표현의 흐름은 어떻게 될까?
 + 참고 사이트
 https://all-record.tistory.com/165
 
