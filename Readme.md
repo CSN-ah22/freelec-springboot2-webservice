@@ -27,6 +27,10 @@
 9. Generate token - Copy - Click!
 10. Back to IntelliJ - put in the password space
 
+##### Spring에서 view 표현의 흐름은 어떻게 될까?
++ 참고 사이트
+https://all-record.tistory.com/165
+
 #### [코드 리뷰 ]
 
 ```
